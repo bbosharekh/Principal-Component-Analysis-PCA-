@@ -11,8 +11,6 @@ Most data scientists use `sklearn.decomposition.PCA` as a black box. This projec
 ## 📊 Results & Validation
 To prove the math works, I tested this custom PCA against the industry-standard Scikit-learn implementation using the [Dataset Name, e.g., Iris Dataset]. 
 
-*(Drop a screenshot of your scatter plot from your Jupyter notebook here!)*
-![PCA Projection](link-to-your-image.png)
 
 Both models successfully reduced the feature space to 2 dimensions with identical explained variance ratios.
 
